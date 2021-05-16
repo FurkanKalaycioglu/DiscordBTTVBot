@@ -1,9 +1,22 @@
 # DiscordBTTVBot
 Very simple discord bot that runs on my computer. I wont be sharing bot but you can see the code
 
+Prefix is 
+```
+=<
+```
+# Commands
 Add emote
 ```
-bttvadd EMOTE_NAME EMOTE_LINK
+=< add EMOTE_NAME EMOTE_LINK
+```
+Remove emote
+```
+=< remove EMOTE_NAME
+```
+Emote list
+```
+=< emotelist
 ```
 EMOTE_NAME can be anything you want
 
