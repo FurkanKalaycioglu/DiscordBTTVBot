@@ -23,3 +23,5 @@ EMOTE_NAME can be anything you want
 EMOTE_LINK must be BTTV emote id
 
 ![](github.gif)
+
+Commands changed i will update gif later :)
